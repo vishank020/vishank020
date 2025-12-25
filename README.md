@@ -11,8 +11,8 @@
     <a href="mailto:vishank20official@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
-    <a href="https://www.notion.so/Vishank-Singh-Portfolio-2b4c2d4722d8803dbeaad74a048a9b92?source=copy_link" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Portfolio"/>
+    <a href="https://vishanksingh.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" alt="Portfolio"/>
     </a>
   </p>
 </div>
