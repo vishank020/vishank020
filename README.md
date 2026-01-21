@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0ad5ff&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vishank+Singh!+%F0%9F%91%8B;AI+%26+ML+Engineer;Building+Next-Gen+Tech;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0ad5ff&center=true&vCenter=true&width=500&lines=Hi,+I'm+Vishank+Singh!+%F0%9F%91%8B;AI+%26+ML+Engineer;Building+AI+Agents;" alt="Typing SVG" />
 
   <h3 align="center">🚀 Bridging the gap between Applied AI & ML</h3>
 
