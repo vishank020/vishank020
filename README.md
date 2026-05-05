@@ -11,7 +11,7 @@
     <a href="mailto:vishank20official@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" alt="Email"/>
     </a>
-    <a href="https://vishanksingh.vercel.app" target="_blank">
+    <a href="https://vishank020.github.io/portfolio-website/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logoColor=white" target="_blank" alt="Portfolio"/>
     </a>
   </p>
