@@ -5,7 +5,7 @@
   <h3 align="center">🚀 Bridging the gap between Applied AI & ML</h3>
 
   <p align="center">
-    <a href="https://linkedin.com/in/vishank020" target="_blank">
+    <a href="https://www.linkedin.com/in/vishank-singh/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="LinkedIn"/>
     </a>
     <a href="mailto:vishank20official@gmail.com" target="_blank">
