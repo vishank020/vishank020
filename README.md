@@ -112,7 +112,6 @@ Final-year **B.Tech AI & ML student at TCET Mumbai**. Targeting **Applied Machin
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishank020&theme=react-dark" width="97%"/>
 </div>
 
----
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishank020/vishank020/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishank020/vishank020/output/github-contribution-grid-snake.svg"/>
