@@ -114,6 +114,13 @@ I'm a final-year **B.Tech AI & ML student at TCET Mumbai** targeting roles in **
 </div>
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishank020/vishank020/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishank020/vishank020/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/vishank020/vishank020/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+---
 ## Open Source & Community
 🌐 TCET ACM SIGAI — Web Developer
 
