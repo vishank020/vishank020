@@ -12,7 +12,7 @@
   <a href="https://vishank020.github.io/portfolio-website/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="YOUR_RESUME_LINK_HERE">
+  <a href="https://drive.google.com/file/d/18tWsamDXhjJoB8QdG8ILtja_lghP4nvd/view?usp=drive_link">
     <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
   </a>
 </p>
@@ -21,7 +21,7 @@
 
 ## About Me
 
-I'm a final-year **B.Tech AI & ML student at TCET Mumbai** targeting roles in **Applied Machine Learning** and **MLOps**. My focus is on the gap between ML research and production: building agentic systems that actually ship, run reliably, and solve real problems.
+Final-year **B.Tech AI & ML student at TCET Mumbai**. Targeting **Applied Machine Learning** and **MLOps** roles. I focus on the gap between ML research and production: agentic systems that ship, run reliably, and solve real problems.
 
 <!-- - **Currently building:** Saarthi — a conversational student onboarding agent using LLaMA 3 + Groq + DigiLocker eKYC for engineering college admissions
 - **Research:** IEEE paper on agentic document intake pipelines (architecture: LangGraph orchestrator + API Setu integrations) -->
@@ -30,7 +30,7 @@ I'm a final-year **B.Tech AI & ML student at TCET Mumbai** targeting roles in **
 
 ---
 
-## Tech Stack and platforms
+## Tech Stack and Platforms
 
 <div align="center">
 
@@ -62,10 +62,9 @@ I'm a final-year **B.Tech AI & ML student at TCET Mumbai** targeting roles in **
 
 > Custom Convolutional Neural Network trained from scratch for multi-class image classification.
 
-
-- **Problem:** Benchmark classification tasks (e.g. CIFAR-10 / custom dataset) used to understand CNN architecture design choices end-to-end — not just calling a pretrained model.
-- **Architecture:** Conv → BatchNorm → ReLU → MaxPool blocks × 3, followed by fully connected layers; trained with Adam optimizer and LR scheduling
-- **Key Engineering:** Experimented with depth, filter sizes, and dropout rates; tracked accuracy/loss curves; compared against a baseline MLP to quantify convolutional inductive bias
+- **Why:** Benchmark classification tasks (e.g. CIFAR-10 / custom dataset) used to understand CNN architecture design choices end-to-end — not just calling a pretrained model.
+- **Model:** Conv → BatchNorm → ReLU → MaxPool blocks × 3, followed by fully connected layers; trained with Adam optimizer and LR scheduling
+- **Notes:** Experimented with depth, filter sizes, and dropout rates; tracked accuracy/loss curves; compared against a baseline MLP to quantify convolutional inductive bias
 - **Stack:** Python · TensorFlow/Keras · NumPy · Matplotlib · Jupyter
 - 🔗 [Training Notebook](https://www.kaggle.com/code/byme86/crop-disease-detection-cnn/notebook) · [Github Repo](https://github.com/vishank020/Crop-Disease-Detection-CNN)
 
@@ -74,9 +73,9 @@ I'm a final-year **B.Tech AI & ML student at TCET Mumbai** targeting roles in **
 ### FinCoach AI — Agentic Financial Assistant
 > Multi-agent system for personalized financial reasoning and coaching, not just Q&A.
 
-- **Problem:** Generic financial chatbots give static answers. Real coaching requires context retention, goal tracking, and multi-turn reasoning.
-- **Architecture:** Three specialized agents (Budget Analyzer · Goal Planner · Risk Assessor) orchestrated via LangGraph; Groq for low-latency inference
-- **Key Engineering:** Agent state shared across turns, tool-use for live calculations, Gemini API fallback for complex reasoning tasks
+- **Why:** Generic financial chatbots give static answers. Real coaching requires context retention, goal tracking, and multi-turn reasoning.
+- **Build:** Three specialized agents (Budget Analyzer · Goal Planner · Risk Assessor) orchestrated via LangGraph; Groq for low-latency inference
+- **Engineering:** Agent state shared across turns, tool-use for live calculations, Gemini API fallback for complex reasoning tasks
 - **Stack:** Next.js · LangGraph · LLaMA 3 (Groq) · Gemini API · TailwindCSS
 - 🔗 [Repo](#) · [Live Demo](#)
 
@@ -96,7 +95,7 @@ I'm a final-year **B.Tech AI & ML student at TCET Mumbai** targeting roles in **
 > Flask ML app with weighted scoring engine and Chart.js explainability layer showing *why* a loan was approved or rejected.
 
 - **Problem:** Black-box credit scoring creates regulatory risk and erodes borrower trust.
-- **Key Engineering:** Feature importance via SHAP values, Chart.js radar chart for applicant profile visualization, weighted scoring engine with configurable thresholds
+- **Engineering:** Feature importance via SHAP values, Chart.js radar chart for applicant profile visualization, weighted scoring engine with configurable thresholds
 - **Stack:** Flask · Scikit-learn · SHAP · Chart.js · SQLite
 - 🔗 [Repo](#) · [Live Demo](#)
 
