@@ -41,7 +41,7 @@ guest@tcet:~$ cat currently_building.md
 guest@tcet:~$ ls -la projects/
 ```
 
-<details open>
+<details>
 <summary><b>📁 vayam/</b> — full-stack college community platform</summary>
 <br/>
 
