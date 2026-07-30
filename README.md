@@ -1,148 +1,173 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8fdd88&center=true&vCenter=true&width=600&lines=Vishank+Singh;Applied+ML+Engineer;Building+Agentic+AI+%7C+LLMs+%7C+MLOps;TCET+Mumbai+%E2%80%94+B.Tech+AI+%26+ML+%2727" alt="Typing SVG" />
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&color=0:000000,100:00FF41&text=VISHANK%20SINGH&fontColor=00FF41&fontSize=55&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Applied%20ML%20Engineer%20//%20Agentic%20Systems%20//%20MLOps&descAlignY=62&descSize=16&descColor=39FF14" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&height=45&lines=%24+whoami;Applied+ML+Engineer;Building+agentic+AI+systems;Class+of+2027+%7C+B.Tech+AI+%26+ML;%24+_" alt="Typing SVG" />
+
+<br/>
+
+[![Email](https://img.shields.io/badge/-Email-000000?style=flat-square&logo=gmail&logoColor=00FF41&labelColor=000000)](mailto:singhvishank20@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzAwRkY0MSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+&labelColor=000000)](https://www.linkedin.com/in/vishank-singh-762b7922b/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=todoist&logoColor=00FF41&labelColor=000000)](https://vishank020.github.io/portfolio-website/)
+[![Resume](https://img.shields.io/badge/-Resume-000000?style=flat-square&logo=readdotcv&logoColor=00FF41&labelColor=000000)](https://drive.google.com/file/d/18tWsamDXhjJoB8QdG8ILtja_lghP4nvd/view?usp=drive_link)
+
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishank-singh-762b7922b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:vishank20official@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://vishank020.github.io/portfolio-website/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://drive.google.com/file/d/18tWsamDXhjJoB8QdG8ILtja_lghP4nvd/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
-  </a>
-</p>
+<br/>
 
----
+```bash
+guest@tcet:~$ cat about.md
+```
 
-## About Me
+> I build production-minded AI systems that move from experiment to deployment
+> without losing reliability, explainability, or momentum.
 
-Final-year **B.Tech AI & ML student at TCET Mumbai**. Targeting **Applied Machine Learning** and **MLOps** roles. I focus on the gap between ML research and production: agentic systems that ship, run reliably, and solve real problems.
+<br/>
 
-<!-- - **Currently building:** Saarthi — a conversational student onboarding agent using LLaMA 3 + Groq + DigiLocker eKYC for engineering college admissions
-- **Research:** IEEE paper on agentic document intake pipelines (architecture: LangGraph orchestrator + API Setu integrations) -->
-- **MLOps:** Containerizing ML workloads with Docker; CI/CD pipelines via GitHub Actions; exploring DVC + MLflow for experiment tracking
-- **Stack preference:** Python-first backend, LLM's for inference, MERN for full-stack integrations
+```bash
+guest@tcet:~$ cat currently_building.md
+```
 
----
+```
+[✓] Turning LLM prototypes into products — real workflows, guardrails, deploy paths
+[✓] Systems that fuse ML, backend engineering, and clean product thinking
+[✓] Learning the deploy layer — Docker, GitHub Actions, DVC, MLflow
+[✓] Open to Applied ML / MLOps / AI Engineering internships
+```
 
-## Tech Stack and Platforms
+<br/>
+
+```bash
+guest@tcet:~$ ls -la projects/
+```
+
+<details open>
+<summary><b>📁 vayam/</b> — full-stack college community platform</summary>
+<br/>
+
+```yaml
+type:   Full-stack social platform
+stack:  Spring Boot 3, Java 21, Angular 18, PostgreSQL, MinIO
+```
+
+- Auth, community spaces, and an anonymous posting model
+- Social layer with follows, comments, and notifications
+- Encrypted DMs over authenticated WebSockets
+- Admin moderation tools for block, unblock, and report flows
+
+</details>
+
+<details>
+<summary><b>📁 saarthi/</b> — deterministic state management for conversational onboarding</summary>
+<br/>
+
+```yaml
+type:   Multi-agent onboarding pipeline
+stack:  LangGraph, Gemma4, FastAPI, PaddleOCR, React.js
+```
+
+- Designed a multi-agent onboarding pipeline using LangGraph to automate document verification and guide new students through admission workflows.
+- Integrated OCR with a FastAPI backend to extract and validate data from uploaded documents in real time.
+- Powered conversational reasoning with Gemma4 (multimodal) via Ollama for real-time query resolution.
+
+</details>
+
+<details>
+<summary><b>📁 fincoach-ai/</b> — AI-powered financial coach</summary>
+<br/>
+
+```yaml
+type:   Dual-interface financial planning agent
+stack:  Python, React.js, Ollama (LLaMA 3.2:3b), REST APIs
+```
+
+- Built a dual-interface financial planning agent supporting both manual goal-setting forms and a conversational chatbot backed by the same data layer.
+- Implemented LLM-driven intent parsing with LLaMA 3.2 to autonomously perform CRUD operations on transactions and goals directly from chat.
+- Analyzed income, expenditure, goal amount/duration, and risk tolerance (safe/moderate/high) to recommend tailored investment schemes and policies within the chat session.
+
+</details>
+
+<details>
+<summary><b>📁 crop-disease-detection/</b> — plant disease classification system</summary>
+<br/>
+
+```yaml
+type:   CNN-based classification model
+stack:  Python, TensorFlow/Keras, Scikit-learn, NumPy, Matplotlib
+```
+
+- Developed a CNN model for crop disease classification across 15 classes using the PlantVillage dataset.
+- Built an end-to-end pipeline covering preprocessing, augmentation, model training, evaluation, and checkpoint management.
+- Achieved 66.33% test accuracy; evaluated performance using confusion matrices and precision/recall metrics.
+
+</details>
+
+<br/>
+
+```bash
+guest@tcet:~$ cat tech_stack.json
+```
+
+```json
+{
+  "languages":   ["Python", "Java"],
+  "ml_ai":       ["TensorFlow", "PyTorch", "Scikit-learn", "LangGraph"],
+  "backend":     ["FastAPI", "Flask", "Spring Boot"],
+  "frontend":    ["React.js", "Angular", "Next.js", "Tailwind CSS"],
+  "data":        ["MongoDB", "PostgreSQL", "MySQL"]
+}
+```
+
+<br/>
+
+```bash
+guest@tcet:~$ cat community.md
+```
+
+```
+[>] Web Developer @ TCET ACM SIGAI
+[>] Built frontend experiences for TCET's ACM student chapter for AI & ML
+[>] Hackathon work — PRISM, FinCoach AI
+```
+
+<br/>
+
+<br/>
+
+```bash
+guest@tcet:~$ git log --stats
+```
+
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishank020&theme=github_dark" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishank020&theme=github_dark" height="170"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vishank020&bg_color=0D1117&color=00FF41&line=00FF41&point=39FF14&area=true&hide_border=true" width="97%"/>
+</div>
+
+<br/>
+
+```bash
+guest@tcet:~$ ./run contribution_snake.sh
+```
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/vishank020/vishank020/output/github-contribution-grid-snake-dark.svg" width="97%"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-| **Category** | **Technologies** |
-| :--- | :--- |
-| **🤖 AI & ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) |
-| **🧠 LLM & Agents** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white) ![LLaMA](https://img.shields.io/badge/LLaMA_3-0467DF?style=flat-square&logo=meta&logoColor=white) ![Gemma](https://img.shields.io/badge/Gemma-0467DF?style=flat-square&logo=google&logoColor=white)|
-| **☁️ DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
-| **💻 Full Stack** | ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=%2361DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| **🗄️ Data & Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+```bash
+guest@tcet:~$ echo "connect and let's build something"
+> connect and let's build something
+
+guest@tcet:~$ process exited (0)
+```
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:00FF41,100:000000&section=footer" width="100%"/>
 
 </div>
-
----
-## Featured Projects
-
-<!-- ### 🧠 Saarthi — Smart Student Onboarding Agent
-> Conversational AI system replacing paper-based college admission forms. The chat UI *is* the form.
-
-- **Problem:** Engineering college admissions involve 15+ manual document uploads and repeated data re-entry. Students abandon mid-flow.
-- **Architecture:** LLaMA 3 (Groq) as orchestrator → LangGraph state machine → DigiLocker eKYC + API Setu for document verification → MongoDB Atlas for structured student records
-- **Key Engineering:** Multi-step conversation graph handles conditional branching (documents missing → re-prompt), partial state persistence, and Aadhaar eKYC fallback flows
-- **Stack:** Python · LangGraph · Groq · FastAPI · React · MongoDB · DigiLocker API
-- **Status:** Research prototype | IEEE paper in progress
-- 🔗 [Repo](#) · [Architecture Diagram](#) · [Paper Draft](#)
-
---- -->
-### Image Classification with CNN
-
-> Custom Convolutional Neural Network trained from scratch for multi-class image classification.
-
-- **Why:** Benchmark classification tasks (e.g. CIFAR-10 / custom dataset) used to understand CNN architecture design choices end-to-end — not just calling a pretrained model.
-- **Model:** Conv → BatchNorm → ReLU → MaxPool blocks × 3, followed by fully connected layers; trained with Adam optimizer and LR scheduling
-- **Notes:** Experimented with depth, filter sizes, and dropout rates; tracked accuracy/loss curves; compared against a baseline MLP to quantify convolutional inductive bias
-- **Stack:** Python · TensorFlow/Keras · NumPy · Matplotlib · Jupyter
-- 🔗 [Training Notebook](https://www.kaggle.com/code/byme86/crop-disease-detection-cnn/notebook) · [Github Repo](https://github.com/vishank020/Crop-Disease-Detection-CNN)
-
----
-
-### FinCoach AI — Agentic Financial Assistant
-> Multi-agent system for personalized financial reasoning and coaching, not just Q&A.
-
-- **Why:** Generic financial chatbots give static answers. Real coaching requires context retention, goal tracking, and multi-turn reasoning.
-- **Build:** Three specialized agents (Budget Analyzer · Goal Planner · Risk Assessor) orchestrated via LangGraph; Groq for low-latency inference
-- **Engineering:** Agent state shared across turns, tool-use for live calculations, Gemini API fallback for complex reasoning tasks
-- **Stack:** Next.js · LangGraph · LLaMA 3 (Groq) · Gemini API · TailwindCSS
-- 🔗 [Repo](#) · [Live Demo](#)
-
----
-
-<!-- ### 🛡️ Multi-Agent Cyber Incident Response System *(Hackathon)*
-> LangGraph-based MITRE ATT&CK-aligned incident triage and response automation.
-
-- **Problem:** SOC analysts spend hours manually triaging alerts and mapping them to ATT&CK techniques.
-- **Architecture:** Specialized agents for detection · classification · response playbook generation, all grounded in MITRE ATT&CK knowledge base
-- **Stack:** Python · LangGraph · Ollama (local LLM) · MITRE ATT&CK · FastAPI
-- 🔗 [Repo](#)
-
---- -->
-
-### Explainable Loan Risk Predictor
-> Flask ML app with weighted scoring engine and Chart.js explainability layer showing *why* a loan was approved or rejected.
-
-- **Problem:** Black-box credit scoring creates regulatory risk and erodes borrower trust.
-- **Engineering:** Feature importance via SHAP values, Chart.js radar chart for applicant profile visualization, weighted scoring engine with configurable thresholds
-- **Stack:** Flask · Scikit-learn · SHAP · Chart.js · SQLite
-- 🔗 [Repo](#) · [Live Demo](#)
-
----
-
-
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vishank020&theme=tokyonight" height="175"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vishank020&theme=tokyonight" height="175"/>
-  <br/><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishank020&theme=react-dark" width="97%"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishank020/vishank020/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishank020/vishank020/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/vishank020/vishank020/output/github-contribution-grid-snake.svg"/>
-</picture>
-
----
-## Open Source & Community
-🌐 TCET ACM SIGAI — Web Developer
-
->Student chapter affiliated with ACM focused on AI & ML.
-
-
-- Contributed to the official TCET ACM SIGAI website as a frontend developer
-- Tenure: Sep 2024 – Oct 2024 · Oct 2025 – Nov 2025
-- 🔗 [GitHub Org](https://github.com/SIG-AI-OpenSource) · [Website](https://acmsigai.tcetmumbai.in/)
----
-
-## Hackathons
-
-<!-- - 📄 **IEEE Paper** — *Saarthi: An Agentic Conversational Framework for Student Admission Onboarding* (in progress) -->
-- **Smart India Hackathon** — PRISM- Predictive Radio & Imagery-based Surveillance & Mapping System
-- **Hackathon** — Fincoach AI - Personal finance assistant
-- **B.Tech AI & ML** — TCET Mumbai, 2027
-
----
-
-<p align="center">
-  <i>Open to internships in Applied ML, MLOps, and AI Engineering — graduating 2027</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
