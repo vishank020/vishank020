@@ -87,7 +87,7 @@ stack:  Python, React.js, Ollama (LLaMA 3.2:3b), REST APIs
 
 </details>
 
-<details>
+<!-- <details>
 <summary><b>📁 crop-disease-detection/</b> — plant disease classification system</summary>
 <br/>
 
@@ -100,7 +100,7 @@ stack:  Python, TensorFlow/Keras, Scikit-learn, NumPy, Matplotlib
 - Built an end-to-end pipeline covering preprocessing, augmentation, model training, evaluation, and checkpoint management.
 - Achieved 66.33% test accuracy; evaluated performance using confusion matrices and precision/recall metrics.
 
-</details>
+</details> -->
 
 <br/>
 
