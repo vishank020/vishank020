@@ -161,7 +161,7 @@ A **zero-backend wallpaper gallery** for 939 wallpapers across Catppuccin, Nord 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vishank020&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishank020&show_icons=true&theme=catppuccin_mocha&hide_border=true&border_radius=12" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishank020&layout=compact&theme=catppuccin_mocha&hide_border=true&border_radius=12&langs_count=6" height="165"/>
 
 <img src="https://streak-stats.demolab.com?user=vishank020&theme=catppuccin-mocha&hide_border=true&border_radius=12" width="60%"/>
